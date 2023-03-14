@@ -2,6 +2,12 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4169E1&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+José+Victor;I'm+20+years+old;I'm+from+Brazil;I+Study+Systems+Development+Analyst;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
+<div align="center">
+
+  ![Snake animation](https://github.com/zevictoros/zevictoros/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
+
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=zevictoros&show_icons=true&count_private=true&hide_border=true&title_color=4169E1&icon_color=4169E1&text_color=c9d1d9&bg_color=0d1117" alt="José Victor github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zevictoros&layout=compact&hide_border=true&title_color=4169E1&text_color=4169E1&bg_color=0d1117" />
